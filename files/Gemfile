@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem "docker-api"
+gem "rspec"
+gem "rspec-wait"
+gem "serverspec", "2.30.0"
